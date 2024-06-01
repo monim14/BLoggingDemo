@@ -33,22 +33,27 @@ To run this project locally, make sure you have Java and Maven installed. Then, 
 - `DELETE /post/delete/{postId}`: Delete a post by ID
 - `PATCH /post/update/{postId}`: Update a post by ID
 - `POST /post/list`: List posts with pagination
-  Sample Request
-{
+  Sample Request{
     "pageDto": {
         "number": 0,
         "pageSize": 2
     },
     "filter": {"author": "Keats","creationDate": "2024-06-01"}
 
-}
-7. It has 4 folders:- ui,domain,application,configuration
-8. ui has all the controller logic
-9. domain has all the models & repository
-10. configuration provides securityConfig
-11. application has the business logic,its the service layer
-12. Tests are available at src/test/java/com/assignment/application/TestBloggingServiceImpl.java
-13. Currently only testing the service layer ,this can be extended further
+   }
+Project Structure
+
+This project has the following structure:
+
+ui: Contains all the controller logic.
+domain: Contains all the models and repository.
+configuration: Provides securityConfig.
+application: Contains the business logic, which is the service layer.
+
+Testing
+
+Tests are available at src/test/java/com/assignment/application/TestBloggingServiceImpl.java. Currently, only the service layer is being tested, but this can be extended further.
+
 
 
 
