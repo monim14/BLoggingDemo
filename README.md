@@ -19,7 +19,8 @@ To run this project locally, make sure you have Java and Maven installed. Then, 
 3. Build the project using Maven:
 4. Run the project:
 5. Project will be running at http://localhost:9090/
-6. ## Endpoints
+
+## Endpoints
 
 - `POST /post`: Create a new post
   Sample Req
