@@ -1,5 +1,4 @@
 # BLoggingDemo
-e6data assignment
 
 
 # Blogging Platform API
