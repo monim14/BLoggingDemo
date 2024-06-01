@@ -44,12 +44,12 @@ To run this project locally, make sure you have Java and Maven installed. Then, 
    }
 ## Project Structure
 
-This project has the following structure:
+This project is organized into the following directories:
 
-ui: Contains all the controller logic.
-domain: Contains all the models and repository.
-configuration: Provides securityConfig.
-application: Contains the business logic, which is the service layer.
+1. ui: Contains all the controller logic.
+2. domain: Contains all the models and repository.
+3. configuration: Provides securityConfig.
+4. application: Contains the business logic, which is the service layer.
 
 ## Testing
 
