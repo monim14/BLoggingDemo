@@ -1,0 +1,16 @@
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/Application.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/controller/BloggingPlatformController.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/domain/repository/PostQueryRepositoryImpl.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/domain/model/Post.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/application/PostServiceImpl.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/mapper/PostsMapper.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/dto/Page.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/dto/CreatePostRequest.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/dto/PostResponse.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/application/PostService.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/dto/PostListResponse.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/dto/PageDto.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/dto/Filter.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/ui/dto/PostListRequest.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/configuration/SecurityConfig.java
+/Users/dibyabhamaitra/BloggingPlatform/src/main/java/com/assignment/domain/repository/PostRepository.java
