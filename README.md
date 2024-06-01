@@ -41,7 +41,7 @@ To run this project locally, make sure you have Java and Maven installed. Then, 
     "filter": {"author": "Keats","creationDate": "2024-06-01"}
 
    }
-Project Structure
+## Project Structure
 
 This project has the following structure:
 
@@ -50,7 +50,7 @@ domain: Contains all the models and repository.
 configuration: Provides securityConfig.
 application: Contains the business logic, which is the service layer.
 
-Testing
+## Testing
 
 Tests are available at src/test/java/com/assignment/application/TestBloggingServiceImpl.java. Currently, only the service layer is being tested, but this can be extended further.
 
